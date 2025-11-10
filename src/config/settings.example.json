@@ -1,0 +1,13 @@
+{
+  "session_cookie": "your_facebook_session_cookie_here",
+  "output_dir": "data",
+  "output_formats": ["json", "csv", "xlsx"],
+  "max_posts_per_group": 100,
+  "pagination_limit": 10,
+  "request_timeout": 15,
+  "proxies": {
+    "http": null,
+    "https": null
+  },
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36"
+}
